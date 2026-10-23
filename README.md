@@ -19,19 +19,19 @@ Founder of **Corypheus Studio** — custom AI photoshoot engines for fashion bra
 
 #### Experience
 
-**Corypheus Studio** — founder · 2025 – now
+**Corypheus Studio** — founder · 2025 – now   
 Custom try-on and photoshoot engines. A self-hosted two-phase try-on on FLUX.2 [klein] for a European fashion brand (flat-lays → dressed model → consistent re-posing, own LoRAs, ComfyUI + FastAPI on RunPod). A multi-pose photoshoot API around Nano Banana Pro for a product photography studio.
 
-**Genera.Space** — Senior Generative AI Engineer · 2024 – 2025
+**Genera.Space** — Senior Generative AI Engineer · 2024 – 2025  
 Virtual try-on R&D: large fashion datasets with automated captioning, garment masks and filtering; HD generation up to 4 MP.
 
-**XLabs AI** — Senior Generative AI Engineer · 2024
+**XLabs AI** — Senior Generative AI Engineer · 2024  
 x-flux; style-transfer models for an avatar and face-swap product; a training pipeline and API for photorealistic images of a user's object with custom LoRAs.
 
-**OpenCV.ai** — Generative AI Engineer · 2022 – 2024
-Synthetic human-pose datasets with SDXL + LoRA + ControlNet (FitWise). Proof of concept for Kopikat data augmentation: +14.6% object-detection accuracy.
+**OpenCV.ai** — Generative AI Engineer · 2022 – 2024  
+Synthetic human-pose datasets with SDXL + LoRA + ControlNet (FitWise).
 
-**Intel** — AI Engineer, OpenVINO Open Model Zoo · 2020 – 2022
+**Intel** — AI Engineer, OpenVINO Open Model Zoo · 2020 – 2022  
 Maintained the open-source zoo of pre-trained models; pre/post-processing libraries for CV, image processing and NLP models; asynchronous inference.
 
 #### Stack
