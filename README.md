@@ -1,9 +1,10 @@
 ### Anzhella Pankratova
 
-Generative AI engineer. I train diffusion models and build the pipelines that ship them: LoRA / ControlNet / IP-Adapter training, photorealistic people, and virtual try-on for fashion.  
+Generative AI engineer working on **state-of-the-art photorealistic generation of people** — for fashion and for AI influencers.
 
-Co-built the first open-source LoRA, ControlNet and IP-Adapter training for **FLUX.1** — [x-flux](https://github.com/XLabs-AI/x-flux) at XLabs AI, 2k+ stars.  
-Founder of **Corypheus Studio** — custom AI photoshoot engines for fashion brands and photo studios.
+- **Training:** LoRA, full fine-tuning and ControlNet for diffusion models — identity, style, garment transfer.
+- **Production pipelines:** consistent generation at scale — the same person, outfit and light across a whole set of images, for product photos and catalogs.
+- **Open source:** co-built the first LoRA, ControlNet and IP-Adapter training for **FLUX.1** — [x-flux](https://github.com/XLabs-AI/x-flux) at XLabs AI, 2k+ stars.
 
 [LinkedIn](https://www.linkedin.com/in/anzhella-pankratova/) · corypheus.vision@gmail.com
 
